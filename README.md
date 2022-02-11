@@ -2,8 +2,11 @@
 
 ## Team
 Giovani Galicia: Research, content creation, PM and web development
+
 Jeff Savin: Research, content creation, web development
+
 Sheila Foley: Research, content creation, web development
+
 Andrew Domzalski: Research, content creation, user evaluations
 
 ### Partner Organization
