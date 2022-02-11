@@ -9,6 +9,8 @@ Sheila Foley: Research, content creation, web development
 
 Andrew Domzalski: Research, content creation, user evaluations
 
+![Alt text](images/goals_and_deliverables_image_1.JPG)
+
 ### Partner Organization
 The Centro de Formación Integral LaSalle, A.C. de Tijuana, B. C. is a volunteer-run, community school that offers free social and educational programs to low-income communities. More than 150 courses (formative and technical) are taught in addition to participating in the promotion of free Middle School and High School. With this, it is sought that the student who attends the Center receives a formative and technical education so that his educational growth is comprehensive and complete.
 
