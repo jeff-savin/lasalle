@@ -1,4 +1,4 @@
-## Centro de Formación Integral LaSalle, A.C. de Tijuana, B.C.
+## Digital Literacy Skills Course
 
 ## Team
 Giovani Galicia: Research, content creation, PM and web development
