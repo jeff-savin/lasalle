@@ -9,8 +9,6 @@ Sheila Foley: Research, content creation, web development
 
 Andrew Domzalski: Research, content creation, user evaluations
 
-![Alt text](images/goals_and_deliverables_image_1.JPG)
-
 ### Partner Organization
 The Centro de Formación Integral LaSalle, A.C. de Tijuana, B. C. is a volunteer-run, community school that offers free social and educational programs to low-income communities. More than 150 courses (formative and technical) are taught in addition to participating in the promotion of free Middle School and High School. With this, it is sought that the student who attends the Center receives a formative and technical education so that his educational growth is comprehensive and complete.
 
@@ -30,6 +28,8 @@ We plan to elicit feedback from Jorge Guzmán Ramos, the center’s director, an
 ### Plan for development, evaluation, and deployment 
 The C4G team formulated the project in five main phases: research, recruitment, content creation, teacher preparation, and web portal creation and deployment.
 
+![Alt text](images/goals_and_deliverables_image_1.JPG)
+
 We will first research existing digital literacy skills content, teacher training programs, and classroom best practices guides, incorporating the best ideas from our research, the center’s immediate needs, and Giovani’s experience creating and teaching digital literacy classes at the center in our solution. In the recruitment phase, we will identify volunteer teachers interested in reviewing and taking our proposed teacher training solution. 
 
 The content creation phase will consist of researching, selecting and designing a digital literacy skills course, a self-guided training manual and a classroom best practices guide. Our proposed multi-module digital literacy skills course will consist of topics such as, introduction to the computer, internet and email. We will take an iterative approach in this phase, meaning that we will first release an initial module with a certain number of units. This module will be reviewed by the team and then presented to Jorge and the current volunteer teachers. This will allow us to receive feedback, evaluate our approach and iterate again until we have a consistent and well-organized course module. This final module will be our blueprint for the remaining modules.   
@@ -41,3 +41,5 @@ Finally, the web portal creation and deployment phase will consist of transferri
 
 ### Design and development choices
 One development choice that we have made at this stage is the use of GitHub Pages to fulfill the needs for our website while providing more flexibility versus alternative options such as Wordpress.  Regarding the design of the website, we are inspired by the design of Northstar Digital Literacy, a digital literacy program created by Literacy Minnesota.  We anticipate using elements of the Northstar designs in our website. Below is an example of a potential landing page for the digital literacy course. 
+
+![Alt text](images/goals_and_deliverables_image_2.JPG)
