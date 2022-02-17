@@ -1,5 +1,7 @@
 ## Digital Literacy Skills Course
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTbTW6cpLpzgkfYm54gzYXiIiBn52XSL3r6RVcTz5GXkuUKe2xCg9x9FUWyLihXA745Mbm-qSCWyAe/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Team
 
 Giovani Galicia: Research, content creation, PM and web development
