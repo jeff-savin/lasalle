@@ -160,7 +160,8 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
 .main-content img { max-width: 100%; }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }
+.main-content h1, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }
+.main-content h2, .main-content h3 { margin-top: 0; margin-bottom: 0; font-weight: normal; color: #159957; }
 .main-content p { margin-bottom: 1em; }
 .main-content code { padding: 2px 4px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 0.9rem; color: #567482; background-color: #f3f6fa; border-radius: 0.3rem; }
 .main-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #dce6f0; border-radius: 0.3rem; }
@@ -182,7 +183,7 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
-.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; }
+.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; text-align: center;}
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
@@ -190,3 +191,68 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.goals{
+	margin: 0;
+    padding: 0;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+.cards {
+ 
+display: grid;
+ 
+grid-template-columns: repeat(3, 1fr);
+ 
+grid-auto-rows: auto;
+ 
+grid-gap: 1rem;
+ 
+}
+
+nav {
+  float: left;
+  width: 20%;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 80%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.next {
+  background-color: #159957;
+  color: white;
+  border-radius: 10%;
+}
