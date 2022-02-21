@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Digital Literacy Skills Course
+tagline:      Computing For Good - CS-6150 Project
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       "Andrew Domzalski, Sheila Foley, Giovani Galicia, Jeff Savin"
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
