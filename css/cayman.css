@@ -225,6 +225,13 @@ a:hover { text-decoration: underline; }
   grid-gap: 1rem;
 }
 
+.cards-home {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+}
+
 nav {
   float: left;
   width: 25%;
