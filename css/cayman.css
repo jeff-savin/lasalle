@@ -274,10 +274,10 @@ article {
 
 .next {
   background-color: white;
-  color: #159957;
+  color: #123455;
   border-radius: 10%;
   padding: 4px 12px;
-  border: 1.5px solid #159957;
+  border: 1.5px solid #123455;
   float: right;
   margin-right: 1rem;
 }
@@ -295,6 +295,10 @@ hr {
   text-align: center;
   padding-bottom: .5rem;
   font-size: 20px;
+}
+
+#list-sel{
+  background-color: black!important;
 }
 
 .divider {
